@@ -1,0 +1,52 @@
+
+
+#btn1,
+#btn2,
+#btn3 {
+    background-color: yellow;
+    color: black;
+    float: right;
+    margin-right: 10px;
+    
+    
+    margin-bottom: 50px;
+}
+#carousel {
+    align-items: center;
+    width: 80%;
+    margin: 0 auto; 
+}
+
+#logo {
+    width: 10%;
+    height: 10%;
+    align-self: left;
+}
+
+#btn1,
+#btn2,
+#btn3 {
+    background-color: yellow;
+    color: black;
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 50px;
+}
+#logo{
+    width: 10%;
+    height: 10%;
+    align-self: left;
+}
+
+
+#body{
+  background-color: rgb(28, 14, 235);
+}
+.btn1{
+    float: right;
+}
+p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
